@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-![Mango's github stats](https://github-readme-stats.vercel.app/api?username=callmewindow&theme=tokyonight&show_icons=true)
+
+
+<figure class="half">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=callmewindow&theme=merko&show_icons=true&hide=contribs&hide_rank=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmewindow&layout=compact" />
+</figure>
+
 
 <!--
 **callmewindow/callmewindow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
